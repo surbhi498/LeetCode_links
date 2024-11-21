@@ -1,3 +1,5 @@
+https://leetcode.com/discuss/study-guide/1233854/a-noobs-guide-to-the-binary-search-algorithm
+
 General Template
 int l = 0, r = n-1;
 while(l <= r) {
